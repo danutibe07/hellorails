@@ -1,6 +1,4 @@
-<img src="https://www.svgrepo.com/show/354252/rails.svg" />
-
-## Hello Rails 
+<img src="https://www.svgrepo.com/show/354252/rails.svg" width="400" height="200" />
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
